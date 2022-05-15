@@ -1,0 +1,28 @@
+.product {
+  width: 100%;
+  padding: 1rem 0;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+
+  gap: 3rem;
+}
+.cart {
+  border: 1px solid rgba(153, 153, 153, 0.356);
+  padding: 0.5rem;
+  border-radius: 1rem;
+}
+.cart-img {
+  width: 80%;
+  margin: 0 auto;
+}
+.cart-img img {
+  width: 100%;
+}
+.cart p {
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 0.96rem;
+  line-height: 1.5;
+}

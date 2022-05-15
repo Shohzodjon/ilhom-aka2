@@ -1,0 +1,28 @@
+footer {
+  width: 100%;
+  background: #037b35;
+  padding: 1.5rem 0;
+  margin-top: 1.5rem;
+}
+.footer-flex {
+  display: flex;
+  justify-content: space-between;
+}
+.footer-logo {
+  width: 60px;
+  height: 60px;
+}
+.footer-logo img {
+  width: 100%;
+}
+footer li {
+  margin: 0.7rem 0;
+  color: #fff;
+  font-size: 0.95rem;
+}
+footer li:first-child {
+  font-size: 1.1rem;
+}
+.other {
+  font-size: 0.95rem !important;
+}

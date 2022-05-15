@@ -1,0 +1,26 @@
+.about {
+  width: 100%;
+}
+h2 {
+  font-size: 2rem;
+  font-weight: 500;
+  margin: 1rem 0;
+}
+
+.about-img {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.about-img img {
+  width: 100%;
+}
+.about p {
+  font-size: 1rem;
+  line-height: 1.4;
+  margin-top: 0.6rem;
+}
+.about p::first-letter {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: rgb(224, 45, 69);
+}
